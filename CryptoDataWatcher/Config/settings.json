@@ -1,0 +1,5 @@
+{
+  "pairs": [ "BTCUSDT", "ETHUSDT", "BNBUSDT" ],
+  "intervalSeconds": 10,
+  "alertThreshold": 0.015
+}

@@ -1,0 +1,216 @@
+2025-10-15 20:39:25 [Information] === Crypto Data Watcher iniciado ===
+2025-10-15 20:39:25 [Information] Monitoreando: BTCUSDT, ETHUSDT, BNBUSDT cada 10s (Umbral de alerta: 1.50 %)
+2025-10-15 20:39:26 [Information] Iteración completada correctamente a las 10/15/2025 20:39:26
+2025-10-15 20:39:36 [Information] Iteración completada correctamente a las 10/15/2025 20:39:36
+2025-10-15 20:39:47 [Information] Iteración completada correctamente a las 10/15/2025 20:39:47
+2025-10-15 20:39:57 [Information] Iteración completada correctamente a las 10/15/2025 20:39:57
+2025-10-15 20:40:07 [Information] Iteración completada correctamente a las 10/15/2025 20:40:07
+2025-10-15 20:40:18 [Information] Iteración completada correctamente a las 10/15/2025 20:40:18
+2025-10-15 20:40:28 [Information] Iteración completada correctamente a las 10/15/2025 20:40:28
+2025-10-15 20:40:38 [Information] Iteración completada correctamente a las 10/15/2025 20:40:38
+2025-10-15 20:40:49 [Information] Iteración completada correctamente a las 10/15/2025 20:40:49
+2025-10-15 20:40:59 [Information] Iteración completada correctamente a las 10/15/2025 20:40:59
+2025-10-15 20:41:09 [Information] Iteración completada correctamente a las 10/15/2025 20:41:09
+2025-10-15 20:41:20 [Information] Iteración completada correctamente a las 10/15/2025 20:41:20
+2025-10-15 20:41:30 [Information] Iteración completada correctamente a las 10/15/2025 20:41:30
+2025-10-15 20:41:41 [Information] Iteración completada correctamente a las 10/15/2025 20:41:41
+2025-10-15 20:41:51 [Information] Iteración completada correctamente a las 10/15/2025 20:41:51
+2025-10-15 20:42:01 [Information] Iteración completada correctamente a las 10/15/2025 20:42:01
+2025-10-15 20:42:12 [Information] Iteración completada correctamente a las 10/15/2025 20:42:12
+2025-10-15 20:42:22 [Information] Iteración completada correctamente a las 10/15/2025 20:42:22
+2025-10-15 20:42:32 [Information] Iteración completada correctamente a las 10/15/2025 20:42:32
+2025-10-15 20:49:51 [Information] === Crypto Data Watcher iniciado ===
+2025-10-15 20:49:51 [Information] Monitoreando: BTCUSDT, ETHUSDT, BNBUSDT cada 10s (Umbral de alerta: 1.50 %)
+2025-10-15 20:49:52 [Information] Iteración completada correctamente a las 10/15/2025 20:49:52
+2025-10-15 20:50:03 [Information] Iteración completada correctamente a las 10/15/2025 20:50:03
+2025-10-15 20:50:13 [Information] Iteración completada correctamente a las 10/15/2025 20:50:13
+2025-10-15 20:50:23 [Information] Iteración completada correctamente a las 10/15/2025 20:50:23
+2025-10-15 20:50:34 [Information] Iteración completada correctamente a las 10/15/2025 20:50:34
+2025-10-15 20:50:44 [Information] Iteración completada correctamente a las 10/15/2025 20:50:44
+2025-10-15 20:50:54 [Information] Iteración completada correctamente a las 10/15/2025 20:50:54
+2025-10-15 20:51:05 [Information] Iteración completada correctamente a las 10/15/2025 20:51:05
+2025-10-15 20:51:15 [Information] Iteración completada correctamente a las 10/15/2025 20:51:15
+2025-10-15 20:51:36 [Information] === Crypto Data Watcher iniciado ===
+2025-10-15 20:51:36 [Information] Monitoreando: BTCUSDT, ETHUSDT, BNBUSDT cada 10s (Umbral de alerta: 1.50 %)
+2025-10-15 20:51:36 [Information] BTCUSDT: 11071712000000
+2025-10-15 20:51:36 [Information] ETHUSDT: 398179000000
+2025-10-15 20:51:36 [Information] BNBUSDT: 116281000000
+2025-10-15 20:51:36 [Information] Iteración completada correctamente a las 10/15/2025 20:51:36
+2025-10-15 20:51:47 [Information] BTCUSDT: 11071831000000
+2025-10-15 20:51:47 [Information] ETHUSDT: 398153000000
+2025-10-15 20:51:47 [Information] BNBUSDT: 116146000000
+2025-10-15 20:51:47 [Information] Iteración completada correctamente a las 10/15/2025 20:51:47
+2025-10-15 20:51:58 [Information] BTCUSDT: 11071830000000
+2025-10-15 20:51:58 [Information] ETHUSDT: 398097000000
+2025-10-15 20:51:58 [Information] BNBUSDT: 116168000000
+2025-10-15 20:51:58 [Information] Iteración completada correctamente a las 10/15/2025 20:51:58
+2025-10-15 20:52:08 [Information] BTCUSDT: 11071831000000
+2025-10-15 20:52:08 [Information] ETHUSDT: 398200000000
+2025-10-15 20:52:08 [Information] BNBUSDT: 116210000000
+2025-10-15 20:52:08 [Information] Iteración completada correctamente a las 10/15/2025 20:52:08
+2025-10-15 20:52:19 [Information] BTCUSDT: 11072558000000
+2025-10-15 20:52:19 [Information] ETHUSDT: 398166000000
+2025-10-15 20:52:19 [Information] BNBUSDT: 116174000000
+2025-10-15 20:52:19 [Information] Iteración completada correctamente a las 10/15/2025 20:52:19
+2025-10-15 20:52:29 [Information] BTCUSDT: 11073505000000
+2025-10-15 20:52:29 [Information] ETHUSDT: 398233000000
+2025-10-15 20:52:29 [Information] BNBUSDT: 116222000000
+2025-10-15 20:52:29 [Information] Iteración completada correctamente a las 10/15/2025 20:52:29
+2025-10-15 20:52:40 [Information] BTCUSDT: 11071830000000
+2025-10-15 20:52:40 [Information] ETHUSDT: 398194000000
+2025-10-15 20:52:40 [Information] BNBUSDT: 116246000000
+2025-10-15 20:52:40 [Information] Iteración completada correctamente a las 10/15/2025 20:52:40
+2025-10-15 20:52:50 [Information] BTCUSDT: 11068401000000
+2025-10-15 20:52:50 [Information] ETHUSDT: 398140000000
+2025-10-15 20:52:50 [Information] BNBUSDT: 116227000000
+2025-10-15 20:52:50 [Information] Iteración completada correctamente a las 10/15/2025 20:52:50
+2025-10-15 20:53:00 [Information] BTCUSDT: 11066925000000
+2025-10-15 20:53:00 [Information] ETHUSDT: 398140000000
+2025-10-15 20:53:00 [Information] BNBUSDT: 116208000000
+2025-10-15 20:53:00 [Information] Iteración completada correctamente a las 10/15/2025 20:53:00
+2025-10-15 20:53:11 [Information] BTCUSDT: 11066514000000
+2025-10-15 20:53:11 [Information] ETHUSDT: 398184000000
+2025-10-15 20:53:11 [Information] BNBUSDT: 116212000000
+2025-10-15 20:53:11 [Information] Iteración completada correctamente a las 10/15/2025 20:53:11
+2025-10-15 20:53:21 [Information] BTCUSDT: 11068700000000
+2025-10-15 20:53:21 [Information] ETHUSDT: 398194000000
+2025-10-15 20:53:21 [Information] BNBUSDT: 116216000000
+2025-10-15 20:53:21 [Information] Iteración completada correctamente a las 10/15/2025 20:53:21
+2025-10-15 20:53:32 [Information] BTCUSDT: 11069799000000
+2025-10-15 20:53:32 [Information] ETHUSDT: 398296000000
+2025-10-15 20:53:32 [Information] BNBUSDT: 116260000000
+2025-10-15 20:53:32 [Information] Iteración completada correctamente a las 10/15/2025 20:53:32
+2025-10-15 20:53:42 [Information] BTCUSDT: 11071062000000
+2025-10-15 20:53:42 [Information] ETHUSDT: 398297000000
+2025-10-15 20:53:42 [Information] BNBUSDT: 116240000000
+2025-10-15 20:53:42 [Information] Iteración completada correctamente a las 10/15/2025 20:53:42
+2025-10-15 20:53:52 [Information] BTCUSDT: 11071063000000
+2025-10-15 20:53:52 [Information] ETHUSDT: 398243000000
+2025-10-15 20:53:52 [Information] BNBUSDT: 116214000000
+2025-10-15 20:53:52 [Information] Iteración completada correctamente a las 10/15/2025 20:53:52
+2025-10-15 20:54:03 [Information] BTCUSDT: 11071061000000
+2025-10-15 20:54:03 [Information] ETHUSDT: 398240000000
+2025-10-15 20:54:03 [Information] BNBUSDT: 116200000000
+2025-10-15 20:54:03 [Information] Iteración completada correctamente a las 10/15/2025 20:54:03
+2025-10-15 20:54:13 [Information] BTCUSDT: 11070287000000
+2025-10-15 20:54:13 [Information] ETHUSDT: 398211000000
+2025-10-15 20:54:13 [Information] BNBUSDT: 116100000000
+2025-10-15 20:54:13 [Information] Iteración completada correctamente a las 10/15/2025 20:54:13
+2025-10-15 20:54:23 [Information] BTCUSDT: 11069001000000
+2025-10-15 20:54:23 [Information] ETHUSDT: 398205000000
+2025-10-15 20:54:23 [Information] BNBUSDT: 116127000000
+2025-10-15 20:54:23 [Information] Iteración completada correctamente a las 10/15/2025 20:54:23
+2025-10-15 20:54:34 [Information] BTCUSDT: 11066899000000
+2025-10-15 20:54:34 [Information] ETHUSDT: 398061000000
+2025-10-15 20:54:34 [Information] BNBUSDT: 116090000000
+2025-10-15 20:54:34 [Information] Iteración completada correctamente a las 10/15/2025 20:54:34
+2025-10-15 20:55:17 [Information] === Crypto Data Watcher iniciado ===
+2025-10-15 20:55:17 [Information] Monitoreando: BTCUSDT, ETHUSDT, BNBUSDT cada 10s (Umbral de alerta: 1.50 %)
+2025-10-15 20:55:18 [Information] BTCUSDT: 11066000000000
+2025-10-15 20:55:18 [Information] ETHUSDT: 398096000000
+2025-10-15 20:55:18 [Information] BNBUSDT: 116135000000
+2025-10-15 20:55:18 [Information] Iteración completada correctamente a las 10/15/2025 20:55:18
+2025-10-15 20:55:28 [Information] BTCUSDT: 11067685000000
+2025-10-15 20:55:28 [Information] ETHUSDT: 398292000000
+2025-10-15 20:55:28 [Information] BNBUSDT: 116154000000
+2025-10-15 20:55:28 [Information] Iteración completada correctamente a las 10/15/2025 20:55:28
+2025-10-15 20:55:38 [Information] BTCUSDT: 11067910000000
+2025-10-15 20:55:38 [Information] ETHUSDT: 398293000000
+2025-10-15 20:55:39 [Information] BNBUSDT: 116140000000
+2025-10-15 20:55:39 [Information] Iteración completada correctamente a las 10/15/2025 20:55:39
+2025-10-15 20:55:49 [Information] BTCUSDT: 11067910000000
+2025-10-15 20:55:49 [Information] ETHUSDT: 398293000000
+2025-10-15 20:55:49 [Information] BNBUSDT: 116154000000
+2025-10-15 20:55:49 [Information] Iteración completada correctamente a las 10/15/2025 20:55:49
+2025-10-15 20:55:59 [Information] BTCUSDT: 11067910000000
+2025-10-15 20:55:59 [Information] ETHUSDT: 398293000000
+2025-10-15 20:55:59 [Information] BNBUSDT: 116154000000
+2025-10-15 20:55:59 [Information] Iteración completada correctamente a las 10/15/2025 20:55:59
+2025-10-15 20:56:10 [Information] BTCUSDT: 11067899000000
+2025-10-15 20:56:10 [Information] ETHUSDT: 398293000000
+2025-10-15 20:56:10 [Information] BNBUSDT: 116145000000
+2025-10-15 20:56:10 [Information] Iteración completada correctamente a las 10/15/2025 20:56:10
+2025-10-15 20:56:21 [Information] BTCUSDT: 11068351000000
+2025-10-15 20:56:21 [Information] ETHUSDT: 398280000000
+2025-10-15 20:56:21 [Information] BNBUSDT: 116142000000
+2025-10-15 20:56:21 [Information] Iteración completada correctamente a las 10/15/2025 20:56:21
+2025-10-15 20:56:31 [Information] BTCUSDT: 11069404000000
+2025-10-15 20:56:31 [Information] ETHUSDT: 398357000000
+2025-10-15 20:56:31 [Information] BNBUSDT: 116169000000
+2025-10-15 20:56:31 [Information] Iteración completada correctamente a las 10/15/2025 20:56:31
+2025-10-15 20:56:41 [Information] BTCUSDT: 11070650000000
+2025-10-15 20:56:41 [Information] ETHUSDT: 398357000000
+2025-10-15 20:56:41 [Information] BNBUSDT: 116180000000
+2025-10-15 20:56:41 [Information] Iteración completada correctamente a las 10/15/2025 20:56:41
+2025-10-15 20:56:52 [Information] BTCUSDT: 11070651000000
+2025-10-15 20:56:52 [Information] ETHUSDT: 398371000000
+2025-10-15 20:56:52 [Information] BNBUSDT: 116186000000
+2025-10-15 20:56:52 [Information] Iteración completada correctamente a las 10/15/2025 20:56:52
+2025-10-15 20:57:02 [Information] BTCUSDT: 11071013000000
+2025-10-15 20:57:02 [Information] ETHUSDT: 398437000000
+2025-10-15 20:57:02 [Information] BNBUSDT: 116189000000
+2025-10-15 20:57:02 [Information] Iteración completada correctamente a las 10/15/2025 20:57:02
+2025-10-15 20:57:12 [Information] BTCUSDT: 11071600000000
+2025-10-15 20:57:12 [Information] ETHUSDT: 398438000000
+2025-10-15 20:57:12 [Information] BNBUSDT: 116199000000
+2025-10-15 20:57:12 [Information] Iteración completada correctamente a las 10/15/2025 20:57:12
+2025-10-15 20:57:23 [Information] BTCUSDT: 11071946000000
+2025-10-15 20:57:23 [Information] ETHUSDT: 398472000000
+2025-10-15 20:57:23 [Information] BNBUSDT: 116202000000
+2025-10-15 20:57:23 [Information] Iteración completada correctamente a las 10/15/2025 20:57:23
+2025-10-15 20:57:33 [Information] BTCUSDT: 11072000000000
+2025-10-15 20:57:33 [Information] ETHUSDT: 398460000000
+2025-10-15 20:57:33 [Information] BNBUSDT: 116174000000
+2025-10-15 20:57:33 [Information] Iteración completada correctamente a las 10/15/2025 20:57:33
+2025-10-15 20:57:44 [Information] BTCUSDT: 11072961000000
+2025-10-15 20:57:44 [Information] ETHUSDT: 398515000000
+2025-10-15 20:57:44 [Information] BNBUSDT: 116218000000
+2025-10-15 20:57:44 [Information] Iteración completada correctamente a las 10/15/2025 20:57:44
+2025-10-15 20:57:54 [Information] BTCUSDT: 11073192000000
+2025-10-15 20:57:54 [Information] ETHUSDT: 398534000000
+2025-10-15 20:57:54 [Information] BNBUSDT: 116211000000
+2025-10-15 20:57:54 [Information] Iteración completada correctamente a las 10/15/2025 20:57:54
+2025-10-15 20:58:04 [Information] BTCUSDT: 11073232000000
+2025-10-15 20:58:04 [Information] ETHUSDT: 398500000000
+2025-10-15 20:58:04 [Information] BNBUSDT: 116212000000
+2025-10-15 20:58:04 [Information] Iteración completada correctamente a las 10/15/2025 20:58:04
+2025-10-15 20:58:15 [Information] BTCUSDT: 11073232000000
+2025-10-15 20:58:15 [Information] ETHUSDT: 398534000000
+2025-10-15 20:58:15 [Information] BNBUSDT: 116212000000
+2025-10-15 20:58:15 [Information] Iteración completada correctamente a las 10/15/2025 20:58:15
+2025-10-15 20:58:26 [Information] BTCUSDT: 11073233000000
+2025-10-15 20:58:26 [Information] ETHUSDT: 398512000000
+2025-10-15 20:58:26 [Information] BNBUSDT: 116212000000
+2025-10-15 20:58:26 [Information] Iteración completada correctamente a las 10/15/2025 20:58:26
+2025-10-15 20:58:36 [Information] BTCUSDT: 11073233000000
+2025-10-15 20:58:36 [Information] ETHUSDT: 398494000000
+2025-10-15 20:58:36 [Information] BNBUSDT: 116190000000
+2025-10-15 20:58:36 [Information] Iteración completada correctamente a las 10/15/2025 20:58:36
+2025-10-15 20:58:46 [Information] BTCUSDT: 11073300000000
+2025-10-15 20:58:46 [Information] ETHUSDT: 398600000000
+2025-10-15 20:58:46 [Information] BNBUSDT: 116239000000
+2025-10-15 20:58:46 [Information] Iteración completada correctamente a las 10/15/2025 20:58:46
+2025-10-15 20:58:57 [Information] BTCUSDT: 11074578000000
+2025-10-15 20:58:57 [Information] ETHUSDT: 398600000000
+2025-10-15 20:58:57 [Information] BNBUSDT: 116257000000
+2025-10-15 20:58:57 [Information] Iteración completada correctamente a las 10/15/2025 20:58:57
+2025-10-15 20:59:07 [Information] BTCUSDT: 11073300000000
+2025-10-15 20:59:07 [Information] ETHUSDT: 398561000000
+2025-10-15 20:59:07 [Information] BNBUSDT: 116201000000
+2025-10-15 20:59:07 [Information] Iteración completada correctamente a las 10/15/2025 20:59:07
+2025-10-15 20:59:17 [Information] BTCUSDT: 11073233000000
+2025-10-15 20:59:17 [Information] ETHUSDT: 398461000000
+2025-10-15 20:59:17 [Information] BNBUSDT: 116172000000
+2025-10-15 20:59:17 [Information] Iteración completada correctamente a las 10/15/2025 20:59:17
+2025-10-15 20:59:28 [Information] BTCUSDT: 11073233000000
+2025-10-15 20:59:28 [Information] ETHUSDT: 398460000000
+2025-10-15 20:59:28 [Information] BNBUSDT: 116207000000
+2025-10-15 20:59:28 [Information] Iteración completada correctamente a las 10/15/2025 20:59:28
+2025-10-15 20:59:38 [Information] BTCUSDT: 11074577000000
+2025-10-15 20:59:38 [Information] ETHUSDT: 398560000000
+2025-10-15 20:59:38 [Information] BNBUSDT: 116244000000
+2025-10-15 20:59:38 [Information] Iteración completada correctamente a las 10/15/2025 20:59:38
+2025-10-15 20:59:48 [Information] BTCUSDT: 11076328000000
+2025-10-15 20:59:48 [Information] ETHUSDT: 398561000000
+2025-10-15 20:59:48 [Information] BNBUSDT: 116245000000
+2025-10-15 20:59:48 [Information] Iteración completada correctamente a las 10/15/2025 20:59:48
